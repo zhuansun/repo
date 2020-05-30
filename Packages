@@ -48,14 +48,14 @@ MD5sum: 04a5231671ac74be9590e063e87f2cfd
 SHA1: 242be48f2d618128ac89b42dfea671f514480e1a
 SHA256: f1106ba912609b02ec9f04d6f239a9b0ff53d3fc630773483a2c932c35984e9a
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/depiction/web/cercube5pp.html
+Homepage: https://zhuansun.github.io/repo/depiction/web/cercube5pp.html
 Description: 去掉 Cercube 5 for YouTube.广告
 Author: SarahH12099 <409774743@qq.com>
-Depiction: https://sileo-cydia.github.io/depiction/web/cercube5pp.html
-Icon: https://sileo-cydia.github.io/assets/cercube5pp/icon.png
-Moderndepiction: https://sileo-cydia.github.io/depiction/native/cercube5pp.json
+Depiction: https://zhuansun.github.io/repo/depiction/web/cercube5pp.html
+Icon: https://zhuansun.github.io/repo/assets/cercube5pp/icon.png
+Moderndepiction: https://zhuansun.github.io/repo/depiction/native/cercube5pp.json
 Name: Cercube 5 for YouTube++
-Sileodepiction: https://sileo-cydia.github.io/depiction/native/cercube5pp.json
+Sileodepiction: https://zhuansun.github.io/repo/depiction/native/cercube5pp.json
 
 Package: ch.mdaus.utils
 Version: 0.0.2
@@ -85,7 +85,7 @@ MD5sum: 64f855090a85e6a7c790814366bc3ce5
 SHA1: 891084a5b9a8ba76f692d8e2ea4202bf0fcdffad
 SHA256: 35d89aee75a25e95b992263a4dab0befccc2b6519a9c1971a3b4627090b2220e
 Section: 依赖
-Homepage: https://sileo-cydia.github.io
+Homepage: https://zhuansun.github.io/repo
 Description: 只有Iarrays产品才应使用。这是关闭的图书馆，没有支持这一包装。
 Author: IArrays  <409774743@qq.com>
 Depiction: https://yttxcs.cn/depiction/html/libiarrays.html
@@ -413,13 +413,13 @@ MD5sum: 9fd1bcbe7141e03785db501bf302b3a0
 SHA1: e7fe184a15d242dd4b821cebac913be96d84b00a
 SHA256: b6c5cb5ac2ae7445e26767fb8c6ebea12809eb5372b1a9fe01d669fb94180c13
 Section: System
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Description: noctisxi依赖
 Tag: role::developer
 Author: LaughingQuoll
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Name: PrefixUI「noctisxi依赖」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/ylwj.json
 
 Package: com.laughingquoll.prefixui
 Version: 1.2
@@ -1004,12 +1004,12 @@ MD5sum: c6d9b25e2d4b9e0dffaea68dd8381c7b
 SHA1: 8ee06d4cdaa7e4c77fb1c07ad43414a984eaf307
 SHA256: 82df2c58a64d84f54cce0f08d09999e12ec1506832b230668680ade6625b27ec
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=backgrounderaction11
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=backgrounderaction11
 Description: 目前在beta*中，将“切换背景模式”操作添加到activator。
 Author: akusio <akusio-report@neko2.net>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=backgrounderaction11
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=backgrounderaction11
 Name: Backgrounder Action「依赖文件」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/backgrounderaction11.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/backgrounderaction11.json
 
 Package: jp.akusio.backgrounderaction11
 Version: 0.0.7
@@ -1138,12 +1138,12 @@ MD5sum: 8a13b43d34c0a7648d46a5c53eb473a7
 SHA1: 37d61a1ee1b22e826de819568b760a840cb1d2de
 SHA256: 6ae4816f8528abf4dbaa1a3a7fdf5b9068dfbe29d3b2c5a29a513d4e486ecdb3
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Description: 显示公告的简单依赖库
 Author: Elias Limneos
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Name: libbulletin
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/ylwj.json
 
 Package: libcolorpickerarm64
 Version: 1.6.2-1
@@ -1159,12 +1159,12 @@ MD5sum: d761357fc8a3d5f9116adf3d23b4d504
 SHA1: d0f84a6524d7f271073f79bcbaa6cc5e89b128b7
 SHA256: a7b6cfb6d19617b2813bae27146920c35763be45a49ca9210aabb721b1782c18
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Description: libcolorpicker 适配 arm64e (A12) support
 Author: Bailey Seymour
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Name: libcolorpicker Arm64e「A12」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/ylwj.json
 
 Package: libiarrays
 Version: 1.0.9-beta-11
@@ -1177,14 +1177,14 @@ MD5sum: 063b67c57f164608e0cf2469623ac7e6
 SHA1: 28447df1ea24cfffff8f204df26e54dbcc94ae8b
 SHA256: dbc10355e2a357e9b6be85ed6fad8530b0190aa319d44390b7dfab784b8b5ded
 Section: Development
-Homepage: https://sileo-cydia.github.io/depiction/web/libiarrays.html
+Homepage: https://zhuansun.github.io/repo/depiction/web/libiarrays.html
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
 Author: IArrays  <409774743@qq.com>
-Depiction: https://sileo-cydia.github.io/depiction/web/libiarrays.html
-Icon: https://sileo-cydia.github.io/assets/libiarrays/icon.png
-Moderndepiction: https://sileo-cydia.github.io/depiction/native/libiarrays.json
+Depiction: https://zhuansun.github.io/repo/depiction/web/libiarrays.html
+Icon: https://zhuansun.github.io/repo/assets/libiarrays/icon.png
+Moderndepiction: https://zhuansun.github.io/repo/depiction/native/libiarrays.json
 Name: libarrays Cracked
-Sileodepiction: https://sileo-cydia.github.io/depiction/native/libiarrays.json
+Sileodepiction: https://zhuansun.github.io/repo/depiction/native/libiarrays.json
 
 Package: limneosos
 Version: 1.1.2
@@ -1198,12 +1198,12 @@ MD5sum: 85f3714847c596cf38e06d15d0c8ed0c
 SHA1: 75d8b3e714408e044d01df8e2145d6dcfe0b426a
 SHA256: 58c77c479e782479d9df049ece91deb3b6b406ce3598e2d65925b4c3929a9dd4
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=limneosos
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=limneosos
 Description: limneosos依赖文件
 Author: ReJail
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=limneosos
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=limneosos
 Name: Limneosos
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/limneosos.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/limneosos.json
 
 Package: me.alfhaily.adblockforyoutube
 Version: 1.0.7
@@ -1291,12 +1291,12 @@ MD5sum: d22ec68985bb3ae1d32bed057e38b679
 SHA1: 9b8a9c219b0196c3fb8108bc2b222d5603a3a8b2
 SHA256: 1d39fabd174cfe1de8a68bc6a2c24327e9ee123663be9ca821f8b14ebf62002e
 Section: Development
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Description: Nepeta's color utils
 Author: Nepeta
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Name: libnepeta
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/ylwj.json
 
 Package: me.nepeta.libnepeta
 Version: 0.1.1
@@ -1474,12 +1474,12 @@ MD5sum: c59607ce779bc4ae4fdd9f068c62e583
 SHA1: 92ff0d4ed3512c67ddeb7fb164e9890c39554689
 SHA256: 9243efc320960fcf4212b5ea51ecfefbe78b980b07de4a5f56646169baa2cb13
 Section: Development
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=uasharedtools
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=uasharedtools
 Description: unlimapps主依赖请用cracktool3破解一下
 Author: UnlimApps Inc.
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=uasharedtools
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=uasharedtools
 Name: uasharedtools「iOS11」
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/uasharedtools.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/uasharedtools.json
 
 Package: ws.hbang.common
 Version: 1.12
@@ -1494,12 +1494,12 @@ SHA1: 62f1d5155d86bec95c2e8d846e67aa3d8fd74cfa
 SHA256: 116f8ba42703718ab195705dadeef1c9dcee6ce47f2afb46d57f7ade114f66f7
 Section: Development
 Priority: optional
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Homepage: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Tag: purpose::extension, cydia::obsolete, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=ylwj
+Depiction: https://zhuansun.github.io/repo/ms/description.html?id=ylwj
 Name: Cephei
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/ylwj.json
+Sileodepiction: https://zhuansun.github.io/repo/ms/msxq/ylwj.json
 Sponsor: 他是个疯子
 
 Package: ws.hbang.common
