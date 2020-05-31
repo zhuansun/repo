@@ -7,7 +7,7 @@ function iOSVersion() {
 }
 $(function() {
   $("li").on("click",function() {
-	  if(this.id=="dnt") {
+	  if(this.id==="dnt") {
 		  $("#dnt_txt").html("You can donate USD via PayPal mail: julioverne"+"@"+"icloud.com");
 	  }
   });
@@ -18,7 +18,8 @@ function loadPackageInfo() {
 		$("#showAddRepoUrl_").show();
 	}
 	var urlSelfParts = window.location.href.split('description.html?id=');
-	var form_url = urlSelfParts[0]+"msxq/"+urlSelfParts[1];
+	var form_url = urlSelfParts[0]+"detail/"+urlSelfParts[1];
+	console.log(form_url)
 	$.ajax({
 		url: form_url,
 		type: "GET",
