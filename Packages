@@ -35,3 +35,20 @@ Dev: rpetrich
 Name: AppList
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 
+Package: rxxwy.zq.bilibilivip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: renxinxwy <rexinxiaowangyou@163.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ../debs/new.deb
+Size: 630952
+MD5sum: b68f4962339c86bb2d7f5fe739dd31af
+SHA1: b6a498a34259fab5100c25a050beb322dc11c4f3
+SHA256: f1152f12063c8f4f94329ea85f09fe65a74787c3f2ca1126b81b59c80a3ef1c3
+Section: rexinwxy-增强(Enhance)
+Description: 解锁哔哩哔哩大会员，需登录自己账户
+Author: 星星点灯
+Icon: xxxx
+Name: Bilibili VIP「大会员」
+Sponsor: rexinxwy <rexinxwy@qq.com>
+
