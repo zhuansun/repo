@@ -15,3 +15,20 @@ Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
 Name: Bilibili VIP「大会员」
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.zq.bilibilivip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ../debs/11.deb
+Size: 631360
+MD5sum: 2825e821e3eb4d3c84be24609d3bb10d
+SHA1: 05c8513f71a3b31aa53ff4ddbde383ec47e70ba3
+SHA256: 8f37ee8660d099c4d5da094e97f2f692b7d5229d13b51a218ef19ef07b73b1b7
+Section: rexinxwy-增强(Enhance)
+Description: 解锁哔哩哔哩大会员，需登录自己账户
+Author: 星星点灯
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: Bilibili VIP「大会员」
+Sponsor: Acreson <342080124@qq.com>
+
