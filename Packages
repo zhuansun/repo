@@ -1,3 +1,20 @@
+Package: acreson.zq.bilibilivip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ../debs/bilibilivip_1.0.4_iphoneos-arm.deb
+Size: 630832
+MD5sum: 58cd28c04176bc24f379f80770f24786
+SHA1: bb6c2a840a46fdcfc121593468c52e3d3af96c84
+SHA256: 5f5a064a19c802cabe764909315869cfc6cebab796952415dbf4700cc065182d
+Section: Acreson-增强(Enhance)
+Description: 解锁哔哩哔哩大会员，需登录自己账户
+Author: 星星点灯
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: Bilibili VIP「大会员」
+Sponsor: Acreson <342080124@qq.com>
+
 Package: applist
 Version: 1.5.15~beta1
 Architecture: iphoneos-arm
@@ -5,7 +22,7 @@ Maintainer: Ryan Petrich <rpetrich@gmail.com>
 Installed-Size: 780
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
 Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Filename: ./debs/applist_1.5.15~beta1_iphoneos-arm.deb
+Filename: ../debs/applist_1.5.15~beta1_iphoneos-arm.deb
 Size: 104730
 MD5sum: 2fca5a5135a60e2c4c58ba4cb4575e8b
 SHA1: 812fddf63980694c89ff44346c7a7f18782466c2
