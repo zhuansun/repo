@@ -8,7 +8,7 @@ Size: 630832
 MD5sum: 58cd28c04176bc24f379f80770f24786
 SHA1: bb6c2a840a46fdcfc121593468c52e3d3af96c84
 SHA256: 5f5a064a19c802cabe764909315869cfc6cebab796952415dbf4700cc065182d
-Section: 增强(Enhance)
+Section: Acreson-增强(Enhance)
 Description: 解锁哔哩哔哩大会员，需登录自己账户
 Author: 星星点灯
 Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
@@ -34,21 +34,4 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Dev: rpetrich
 Name: AppList
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-
-Package: rxxwy.zq.bilibilivip
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: renxinxwy <rexinxiaowangyou@163.com>
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ../debs/new.deb
-Size: 630952
-MD5sum: b68f4962339c86bb2d7f5fe739dd31af
-SHA1: b6a498a34259fab5100c25a050beb322dc11c4f3
-SHA256: f1152f12063c8f4f94329ea85f09fe65a74787c3f2ca1126b81b59c80a3ef1c3
-Section: rexinwxy-增强(Enhance)
-Description: 解锁哔哩哔哩大会员，需登录自己账户
-Author: 星星点灯
-Icon: xxxx
-Name: Bilibili VIP「大会员」
-Sponsor: rexinxwy <rexinxwy@qq.com>
 
